@@ -4,6 +4,7 @@ go 1.18
 
 replace (
 	github.com/matryer/moq => github.com/rancher/moq v0.0.0-20190404221404-ee5226d43009
+	github.com/rancher/wrangler => github.com/moio/wrangler v0.0.0-20221021093536-ec0b05953317
 	k8s.io/client-go => k8s.io/client-go v0.24.5
 )
 
